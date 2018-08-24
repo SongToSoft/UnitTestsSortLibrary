@@ -1,0 +1,11 @@
+C:\Users\Dima\RiderProjects\SortLibraryTest\SortLibraryTest\bin\Debug\SortLibraryTest.dll
+C:\Users\Dima\RiderProjects\SortLibraryTest\SortLibraryTest\bin\Debug\SortLibraryTest.pdb
+C:\Users\Dima\RiderProjects\SortLibraryTest\SortLibraryTest\bin\Debug\nunit.framework.dll
+C:\Users\Dima\RiderProjects\SortLibraryTest\SortLibraryTest\bin\Debug\SortLibrary.dll
+C:\Users\Dima\RiderProjects\SortLibraryTest\SortLibraryTest\bin\Debug\SortLibrary.pdb
+C:\Users\Dima\RiderProjects\SortLibraryTest\SortLibraryTest\bin\Debug\nunit.framework.xml
+C:\Users\Dima\RiderProjects\SortLibraryTest\SortLibraryTest\obj\Debug\SortLibraryTest.csprojAssemblyReference.cache
+C:\Users\Dima\RiderProjects\SortLibraryTest\SortLibraryTest\obj\Debug\SortLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Dima\RiderProjects\SortLibraryTest\SortLibraryTest\obj\Debug\SortLibraryTest.csproj.CopyComplete
+C:\Users\Dima\RiderProjects\SortLibraryTest\SortLibraryTest\obj\Debug\SortLibraryTest.dll
+C:\Users\Dima\RiderProjects\SortLibraryTest\SortLibraryTest\obj\Debug\SortLibraryTest.pdb

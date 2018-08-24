@@ -1,0 +1,6 @@
+C:\Users\Dima\RiderProjects\SortLibrary\SortLibrary\bin\Debug\SortLibrary.dll
+C:\Users\Dima\RiderProjects\SortLibrary\SortLibrary\bin\Debug\SortLibrary.pdb
+C:\Users\Dima\RiderProjects\SortLibrary\SortLibrary\obj\Debug\SortLibrary.csprojAssemblyReference.cache
+C:\Users\Dima\RiderProjects\SortLibrary\SortLibrary\obj\Debug\SortLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dima\RiderProjects\SortLibrary\SortLibrary\obj\Debug\SortLibrary.dll
+C:\Users\Dima\RiderProjects\SortLibrary\SortLibrary\obj\Debug\SortLibrary.pdb
